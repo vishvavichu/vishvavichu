@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vishvavichu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Developing softwares
+- 🌱 I’m currently learning fullstack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...@vishva_vichu_
+- 📫 How to reach me ...@vishva_vichu_ at all Social media
 
 <!---
 vishvavichu/vishvavichu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
